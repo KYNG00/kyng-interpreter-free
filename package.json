@@ -1,0 +1,17 @@
+{
+  "name": "kyng-interpreter-free",
+  "version": "1.0.0",
+  "description": "No paid API Mandarin-to-English iPhone web app",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@huggingface/transformers": "3.8.1",
+    "vite": "7.1.7"
+  }
+}
